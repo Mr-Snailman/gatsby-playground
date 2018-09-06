@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Snailman/gatsby-playground.git"
+  },
+  "author": "Dustin Saunders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mr-Snailman/gatsby-playground/issues"
+  },
+  "homepage": "https://github.com/Mr-Snailman/gatsby-playground#readme",
+  "devDependencies": {
+    "gatsby-cli": "^1.1.58"
+  }
+}
